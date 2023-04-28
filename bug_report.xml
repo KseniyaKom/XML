@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+    <BugReport>
+        <ID>1300</ID>
+        <Title>Attachments: user is unable to upload a GIF file into conversation</Title>
+        <Severity>Low</Severity>
+        <Priority>Medium</Priority>
+        <CreatedBy>Kseniya Komarova</CreatedBy>
+        <AssignedTo>Anyone</AssignedTo>
+        <Status>TO DO</Status>
+        <Attachment>link</Attachment>
+        <Environment>Win10 x64 build 191022, Google Chrome v96.0.433.23 x64</Environment>
+    <STR>
+        1. Open a conversation with the user				
+        2. Click attach icon		
+        3. Select file with .gif format	
+    </STR>
+        <ActualResult>User is unable to upload a file with .gif format. There is a notification error of unsupported format</ActualResult>
+        <ExpectedResult>User is able to upload a file with .gif format as well as other commonly used formats</ExpectedResult>
+</BugReport>
