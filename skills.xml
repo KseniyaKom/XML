@@ -4,16 +4,16 @@
   <Third>Devtools</Third>
   <Fourth>Charles</Fourth>
   <Fifth>SQL</Fifth>
-  <Sixth>Client-serverArchitecture</Sixth>
-  <Seventh>HTTPmethodsofRequests/Response</Seventh>
+  <Sixth>Client-server Architecture</Sixth>
+  <Seventh>HTTP methods of Requests/Response</Seventh>
   <Eights>VPN</Eights>
-  <Ninth>MobileTesting</Ninth>
-  <Tenth>PeculiaritiesofiOSandAndroid</Tenth>
-  <Eleventh>BuildiOSappsonXCode</Eleventh>
-  <Twelfth>BuildAndroidappsonAndroidStudio</Twelfth>
+  <Ninth>Mobile Testing</Ninth>
+  <Tenth>Peculiarities of iOS and Android</Tenth>
+  <Eleventh>Build iOS apps on XCode</Eleventh>
+  <Twelfth>Build Android apps on Android Studio</Twelfth>
   <Thirteenth>Fiddler</Thirteenth>
-  <Fourteenth>LinuxTerminal</Fourteenth>
-  <Fifteenth>DBPostgres</Fifteenth>
-  <Sixteenth>Non-relationalDBRedis</Sixteenth>
+  <Fourteenth>Linux Terminal</Fourteenth>
+  <Fifteenth>DB Postgres</Fifteenth>
+  <Sixteenth>Non-relational DB Redis</Sixteenth>
   <Seventeenth>JMeter</Seventeenth>
 </Skills>
