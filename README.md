@@ -36,7 +36,7 @@ Homework
 `vim "skills.xml" / insert / esc / :wq`
  
 ### Make a commit (in one line):
-`git add . ; git commit -m "prefernces/skills"`
+`git add . ; git commit -m "preferences/skills" / git -a -m "preferences/skills"`
 
 ### Send both files to an external repository:
 `git push`
