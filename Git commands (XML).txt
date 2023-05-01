@@ -10,7 +10,7 @@ XML
  29. cat > preferences.xml / ctrl+c - создать файл preferences.xml
  30. vim "preferences.xml" / insert / esc / :wq - в файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML.
  31. vim "skills.xml" / insert / esc / :wq - создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML
- 32. git add . ; git commit -m "prefernces/skills" - cделать коммит в одну строку.
+ 32. git add . ; git commit -m "preferences/skills" / git -a -m "preferences/skills" - cделать коммит в одну строку.
  33. git push - отправить сразу 2 файла на внешний репозиторий.
  34. Add new file/Create new file - на веб интерфейсе создать файл bug_report.xml.
  35. Commit new file - сделать Commit changes (сохранить) изменения на веб интерфейсе.
